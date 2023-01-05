@@ -49,11 +49,11 @@ source("./R/language.R")
 **Servikse kolon tümörü yayılımı**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-cervix.html](https://pathologyatlas.github.io/tumor-spread/HE-cervix.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html](https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-cervix.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -65,11 +65,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon tumor spread to cervix**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-cervix.html](https://pathologyatlas.github.io/tumor-spread/HE-cervix.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html](https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-cervix.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -98,11 +98,11 @@ See Microscopy with viewer:
 **Endometriuma kolon tümörü yayılımı**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html](https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html](https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -114,11 +114,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon tumor spread to endometrium**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html](https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html](https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-endometrium.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -149,11 +149,11 @@ See Microscopy with viewer:
 **Overe kolon tümörü yayılımı**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-over.html](https://pathologyatlas.github.io/tumor-spread/HE-over.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-over.html](https://images.patolojiatlasi.com/tumor-spread/HE-over.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-over.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-over.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -165,11 +165,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon tumor spread to over**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-over.html](https://pathologyatlas.github.io/tumor-spread/HE-over.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-over.html](https://images.patolojiatlasi.com/tumor-spread/HE-over.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-over.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-over.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -199,11 +199,11 @@ See Microscopy with viewer:
 **İnce barsağa kolon tümörü yayılımı**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html](https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html](https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -215,11 +215,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon tumor spread to small intestine**
 
 
-[https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html](https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html)
+[https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html](https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/tumor-spread/HE-small-intestine.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
