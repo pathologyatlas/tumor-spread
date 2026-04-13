@@ -224,4 +224,16 @@ See Microscopy with viewer:
 ```
 
 
+---
 
+### Viewing Modes
+
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/tumor-spread/all.html) - Browse HE-cervix, HE-endometrium, HE-over, HE-small-intestine stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/tumor-spread/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/tumor-spread/curtain.html) - Overlay two stains with a draggable slider
+
+### Görüntüleme Modları
+
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/tumor-spread/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/tumor-spread/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/tumor-spread/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
